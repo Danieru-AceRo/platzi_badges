@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Danieru-AceRo/platzi_badges/static/css/main.908dcfb4.chunk.css",
+    "main.js": "/Danieru-AceRo/platzi_badges/static/js/main.21931abe.chunk.js",
+    "main.js.map": "/Danieru-AceRo/platzi_badges/static/js/main.21931abe.chunk.js.map",
+    "runtime-main.js": "/Danieru-AceRo/platzi_badges/static/js/runtime-main.a47e175d.js",
+    "runtime-main.js.map": "/Danieru-AceRo/platzi_badges/static/js/runtime-main.a47e175d.js.map",
+    "static/css/2.ba27c2ca.chunk.css": "/Danieru-AceRo/platzi_badges/static/css/2.ba27c2ca.chunk.css",
+    "static/js/2.9aabf496.chunk.js": "/Danieru-AceRo/platzi_badges/static/js/2.9aabf496.chunk.js",
+    "static/js/2.9aabf496.chunk.js.map": "/Danieru-AceRo/platzi_badges/static/js/2.9aabf496.chunk.js.map",
+    "index.html": "/Danieru-AceRo/platzi_badges/index.html",
+    "static/css/2.ba27c2ca.chunk.css.map": "/Danieru-AceRo/platzi_badges/static/css/2.ba27c2ca.chunk.css.map",
+    "static/css/main.908dcfb4.chunk.css.map": "/Danieru-AceRo/platzi_badges/static/css/main.908dcfb4.chunk.css.map",
+    "static/js/2.9aabf496.chunk.js.LICENSE.txt": "/Danieru-AceRo/platzi_badges/static/js/2.9aabf496.chunk.js.LICENSE.txt",
+    "static/media/astronauts.fc4d80a5.svg": "/Danieru-AceRo/platzi_badges/static/media/astronauts.fc4d80a5.svg",
+    "static/media/badge-header.3e56976b.svg": "/Danieru-AceRo/platzi_badges/static/media/badge-header.3e56976b.svg",
+    "static/media/logo.ed14bd33.svg": "/Danieru-AceRo/platzi_badges/static/media/logo.ed14bd33.svg",
+    "static/media/platziconf-logo.8fbacde1.svg": "/Danieru-AceRo/platzi_badges/static/media/platziconf-logo.8fbacde1.svg",
+    "static/media/BadgeDetails.css": "/Danieru-AceRo/platzi_badges/static/media/stars.7544bae9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a47e175d.js",
+    "static/css/2.ba27c2ca.chunk.css",
+    "static/js/2.9aabf496.chunk.js",
+    "static/css/main.908dcfb4.chunk.css",
+    "static/js/main.21931abe.chunk.js"
+  ]
+}
